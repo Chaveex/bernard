@@ -8,7 +8,7 @@ colour: 1
 fundCostMultiplier: 100
 id: 21
 layout:
-- - - 0
+- - - 2
 - - - 2
 name: Paris
 placement: in-town
