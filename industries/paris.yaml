@@ -9,7 +9,6 @@ fundCostMultiplier: 100
 id: 21
 layout:
 - - - 2
-- - - 2
 name: Paris
 placement: in-town
 probabilityInGame: 5
